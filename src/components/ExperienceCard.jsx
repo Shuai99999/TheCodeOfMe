@@ -24,6 +24,60 @@ export default function ExperienceCard({
           <div className="text-sm text-gray-700 space-y-6">
             <div>
               <h3 className="text-lg font-bold text-cyan-700">
+                Blackline Safety - Calgary, AB, Canada
+              </h3>
+              <p className="italic">Full Stack Developer | Jan.2025 - Now</p>
+              <p className="text-gray-700 text-sm leading-relaxed mb-2">
+                Full Stack Developer responsible for designing and delivering
+                scalable web applications supporting connected IoT platforms,
+                including backend services, front-end dashboards, and
+                cloud-based data systems.
+              </p>
+              <ul className="list-disc list-inside mt-2 space-y-1">
+                <li>
+                  Designed and developed full-stack web applications supporting
+                  connected worker safety platforms, enabling real-time device
+                  monitoring and incident tracking.{" "}
+                </li>
+                <li>
+                  Built and maintained RESTful APIs using Node.js (Express) to
+                  handle high-volume IoT data ingestion and secure device
+                  communication.
+                </li>
+                <li>
+                  Developed responsive front-end dashboards using React to
+                  visualize live sensor data, alerts, and operational metrics.
+                </li>
+                <li>
+                  Designed and optimized relational database schemas (PostgreSQL
+                  / SQL Server) to ensure data integrity and performance for
+                  mission-critical systems.
+                </li>
+                <li>
+                  Implemented role-based authentication and authorization to
+                  support secure multi-tenant environments.
+                </li>
+                <li>
+                  Collaborated with firmware and backend teams to integrate
+                  device telemetry into cloud-based analytics systems.
+                </li>
+                <li>
+                  Deployed and maintained applications in Microsoft Azure using
+                  Docker and CI/CD pipelines.
+                </li>
+                <li>
+                  Improved application performance by optimizing API endpoints
+                  and database queries, reducing response latency under
+                  high-load scenarios.
+                </li>
+                <li>
+                  Participated in Agile development cycles, code reviews, and
+                  technical design discussions.
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-lg font-bold text-cyan-700">
                 RRS Supply Chain - Qingdao, China
               </h3>
               <p className="italic">
