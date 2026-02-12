@@ -2,7 +2,7 @@
   "name": "thecodeofme",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Shuai99999.github.io",
+  "homepage": "https://shuai99999.github.io/TheCodeOfMe/",
   "type": "module",
   "scripts": {
     "dev": "vite",
